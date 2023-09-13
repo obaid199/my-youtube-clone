@@ -1,3 +1,4 @@
+//this is part of redux
 import { createSlice } from "@reduxjs/toolkit";
 const appSlice = createSlice({
     name :"app",
